@@ -1,0 +1,29 @@
+                 
+                 
+                        ******* WELCOME TO HAND CRICKET *******
+
+=============================================================================================
+                           RULES FOR PLAYING THIS GAME:
+=============================================================================================
+
+        TOSS:
+                At first toss will take place and the one who wins it get the option toss
+                either bowl or bat first.
+
+        BAT FIRST:
+                The one who bath first will set a target and will defend it.
+                
+        BAT SECOND:
+                The one who bat second will have to score more than the first batter.
+
+        POSSIBLE RUNS:
+                One can select any number between 1-6 , either to bowl or to bat.
+
+        OUT:
+                If the number selected by the batsman and the bowler is same, batsmen will 
+                be declared out.
+
+==============================================================================================
+
+                        ******* HOPE YOU ENJOY THE GAME *******
+

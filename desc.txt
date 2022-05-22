@@ -1,0 +1,33 @@
+
+===========================================================================================
+                                     HAND CRICKET
+===========================================================================================
+                                                                              by Anik Das
+
+            1. PLAY
+
+            This is a simple game where numbers between 1 to 6 are randomly selected 
+            and is added to the runs of batsman if it does not matches with the 
+            number selected by the bowler. If the number matches then the batsman is 
+            decalred out and bowler will now bat to beat the runs scored by the 
+            batsman.
+
+            LIMITATIONS:
+            Its only a player vs computer game and not a plyer vs player game.
+
+            2. RULES
+
+            These are set of instructions given to the user in order to make this 
+            game more easy to him/her. 
+
+            3. HIGHSCORE
+
+            This will show two score:
+            The higest score ever scored by the user.
+            The best bowling figure of the user, i.e., least run given to the computer
+
+            LIMITATION: 
+            If user checks the HIGHSCORES before playing any game then it will simply 
+            show 0 and 100
+
+============================================================================================
